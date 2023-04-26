@@ -1,0 +1,31 @@
+.project-select{
+  margin-top: 12px;
+}
+
+.project-select .css-13cymwt-control{
+  background-color: #1E1E1E;
+  border: 1px solid gray;
+}
+
+
+.project-select .css-13cymwt-control *{
+  color: white;
+}
+
+.project-select .css-a0izu-control:hover{
+  border-color: unset;
+}
+
+.project-select .css-a0izu-control{
+  background-color: #1E1E1E;
+  border-color: unset;
+}
+
+.project-select .css-a0izu-control *{
+  color: white;
+  border-color: unset;
+}
+
+.project-select .css-1nmdiq5-menu{
+  background-color: #1E1E1E;
+}
